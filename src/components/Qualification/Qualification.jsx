@@ -94,8 +94,8 @@ const Qualification = () => {
                     </div>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Data Science Intern</h3>
-                            <span className="qualification__subtitle">Aplha AI</span>
+                            <h3 className="qualification__title">Software Engineer Intern</h3>
+                            <span className="qualification__subtitle">Foxmula</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
                                 2021
