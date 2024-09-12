@@ -12,7 +12,7 @@ const About = () => {
             <div className="about__data">
                 <Info />
                 <p className="about__description">
-                    I create applications highlighting minimal design and friendly UI/UX interfaces.
+                I’m a software engineer with a focus on software development, big data, and data engineering. I earned my Master’s in Computer Science from Santa Clara University and have worked on projects like building data pipelines and educational apps. I love working with languages like Java, JavaScript, and Python, and I’m always excited to dive into cloud tech and solve interesting problems.
                 </p>
                 <a download="" href={"https://drive.google.com/file/d/1k82WcQvR_kuHVjcHCOtGgcy1du4NK8A4/view?usp=sharing"} className="button button--flex">
                     Download Resume 
